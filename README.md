@@ -1,7 +1,7 @@
 #  Hi
 
 ## About Me
-- Student in **BUT 3 Web & Mobile Development**
+- Student in **BUT 3 IT Web & Mobile Development**
 
 ---
 
