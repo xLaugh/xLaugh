@@ -3,8 +3,6 @@
 ## About Me
 - Student in **BUT 3 IT Web & Mobile Development**
 
----
-
 ## Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
