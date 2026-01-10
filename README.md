@@ -1,5 +1,3 @@
-#  HELLO GOOD MORNING
-
 ## About Me
 - Student in **BUT 3 IT Web & Mobile Development**
 
